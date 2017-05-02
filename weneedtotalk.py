@@ -1,3 +1,6 @@
+# This Python file uses the following encoding: utf-8
+import os, sys
+
 #This document is just for entertaiment purposes
 #Avaible under MIT-License. © Joeri Jungschlager
 
